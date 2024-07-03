@@ -1,4 +1,4 @@
-# Canny Edge Detection Script
+# Canny Edge Detector
 
 ## Overview
 
