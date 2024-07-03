@@ -1,5 +1,5 @@
-Canny Edge Detection Script
-Overview
+##Canny Edge Detection Script
+#Overview
 
 This script performs Canny edge detection on all images in a specified input folder and saves the processed images to an output folder. The Canny edge detection algorithm highlights the edges in the images, which can be useful for various image processing tasks.
 Requirements
